@@ -2,3 +2,8 @@ build:
   environment:
     ruby: 2.4
 
+checks:
+  ruby:
+    code_rating: true
+    duplicate_code: true
+
